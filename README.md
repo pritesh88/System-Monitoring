@@ -7,7 +7,7 @@ This project aims to create a system monitoring tool that collects CPU and memor
 ## Features
 
 - CPU Usage Monitoring: Continuously monitors CPU usage on the target system.
-- Memory Usage Monitoring: Tracks memory usage, including RAM and swap.
+- Memory Usage Monitoring: Tracks memory usage.
 - Regular Email Reports: Generates and sends email reports with CPU and memory usage statistics.
 - Configurable Schedule: Allows you to set the frequency and timing of email reports.
 - Threshold Alerts: Sends alerts if CPU or memory usage exceeds predefined thresholds.
